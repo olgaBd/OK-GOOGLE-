@@ -3,7 +3,7 @@ Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@O
 
 ## VIDEO
 
-[![video](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![video](https://img.youtube.com/vi/https://youtu.be/zuGwjaaOiN4/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/zuGwjaaOiN4)
 
 ## BIBLIOTHEQUE UTILISEE
 + HCSR04.h
@@ -27,3 +27,7 @@ Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@O
 ## NODE-RED
 
 ![photo: ](okGoogle_node-red.png)
+
+## IFTTT
+
+ ![photo: ](okGoogleIFTTT.png)   
